@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://pledovski:Yquzf3NGv2RqbMeDQ7NZwyNwyvMHAfkA@simple-link-shortener-4joum.mongodb.net/test?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
-}
