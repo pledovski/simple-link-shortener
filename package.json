@@ -1,0 +1,30 @@
+{
+  "name": "simple-link-shortener",
+  "version": "1.0.0",
+  "description": "url_shortener_service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pledovski/simple-link-shortener.git"
+  },
+  "author": "pledovski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pledovski/simple-link-shortener/issues"
+  },
+  "homepage": "https://github.com/pledovski/simple-link-shortener#readme",
+  "dependencies": {
+    "config": "^3.2.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.10",
+    "shortid": "^2.2.15",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
